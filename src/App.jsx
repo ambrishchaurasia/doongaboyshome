@@ -7,6 +7,7 @@ import Testimonials from './components/Testimonials'
 import Contacts from './components/Contacts'
 import { ToastContainer} from 'react-toastify';
 import Footer from './components/Footer'
+import { Analytics } from "@vercel/analytics/react"
 
 const App = () => {
   return (
