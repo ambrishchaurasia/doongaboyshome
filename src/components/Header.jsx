@@ -13,7 +13,7 @@ const Header = () => {
         loop
         playsInline
       >
-        <source src='/dbz_web.mp4' type='video/mp4' />
+        <source src='/dbz_web1.mp4' type='video/mp4' />
         {/* Fallback for browsers that don't support video */}
         <div className='w-full h-full bg-center bg-cover' style={{backgroundImage:"url('/dbz.png')"}}></div>
       </video>
