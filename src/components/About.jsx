@@ -38,7 +38,7 @@ const About = () => {
       </div>
        </div>
        <p className='my-10 max-w-lg'>Doonga Boys Home is a boys’ hostel exclusively for UPES students, located in the calm and peaceful surroundings of Doonga, just 2 km from the busy streets of Bidholi. With a total capacity of 46 students, we provide a comfortable, home-like stay with personal attention to every resident’s needs. From nutritious meals and high-speed WiFi to laundry services and a well-equipped gym, everything is designed to make student life easier. Enjoy spacious rooms and a serene environment that lets you focus on your studies while feeling at home.</p>  
-       <button className='bg-blue-600 text-white px-8 py-2 rounded'>Learn More</button>
+       <button className='bg-blue-600 text-white px-8 py-2 rounded'>Since 10+ Years</button>
        </div>  
      </div>
 </motion.div>

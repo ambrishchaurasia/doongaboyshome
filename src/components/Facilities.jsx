@@ -24,6 +24,7 @@ const Facilities = () => {
    const prevProject = () => {
     setCurrentIndex((prevIndex) => (prevIndex ===0) ? facilitiesData.length-1 : prevIndex - 1);
   }
+  
   return (
    
  <motion.div 
