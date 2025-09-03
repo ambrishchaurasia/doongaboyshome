@@ -1,12 +1,35 @@
-# React + Vite
+Doonga Boys Home 🏡✨
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Doonga Boys Home is a modern hostel website built to provide information, improve communication, and offer a digital presence for the hostel. The website focuses on a clean design, easy navigation, and essential details that students and visitors would expect.
 
-Currently, two official plugins are available:
+🔗 Live Website
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👉 Visit Doonga Boys Home
 
-## Expanding the ESLint configuration
+https://doongaboyshome.vercel.app/
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🚀 Features
+
+🖥️ Built with React.js for a fast, responsive UI
+
+📱 Mobile-friendly design
+
+📑 Pages for About, Facilities, Gallery, and Contact
+
+📬 Contact/Inquiry form (if implemented)
+
+🎨 Modern and minimal aesthetics
+
+🖼️ Preview
+
+(Add screenshots of homepage, hostel facilities, gallery, etc.)
+
+🛠️ Tech Stack
+
+React.js – frontend framework
+
+Tailwind  – styling
+
+Web3Forms - forms
+
+motion.dev - animations
